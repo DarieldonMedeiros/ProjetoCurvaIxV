@@ -1,13 +1,13 @@
 # Projeto de Extração, Análise e Relatórios de Ensaios de Curva IxV
 
-Este repositório reúne scripts, notebooks e planilhas utilizados no âmbito do Consórcio Marangatu (UFV), para automação e análise de ensaios de inversores fotovoltaicos, conforme divulgado nos posts:
+Este repositório reúne scripts, notebooks e planilhas utilizados no âmbito do Consórcio Marangatu (UFV), para automação e análise de ensaios de Curva IxV, conforme divulgado nos posts:
 
 - [Consórcio Marangatú - Motrice Soluções](https://www.linkedin.com/posts/darieldon-de-brito-medeiros_ontem-no-cons%C3%B3rcio-marangatu-da-motrice-solu%C3%A7%C3%B5es-activity-7206242399352766464-g2oK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACZ_e70BjDTM-fIO9bX--d7Woxcl08Tr3AE)
 - [UFV Marangatú - Ensaios Automatizados](https://www.linkedin.com/posts/darieldon-de-brito-medeiros_boa-tarde-hoje-na-ufv-marangatu-constru%C3%ADdas-activity-7214685368128815105-LR0A?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACZ_e70BjDTM-fIO9bX--d7Woxcl08Tr3AE)
 
 ## Objetivo
 
-Automatizar o processo de extração de dados de ensaios de inversores fotovoltaicos, tratamento de imagens, extração de informações via OCR e geração de relatórios padronizados em planilhas Excel.
+Automatizar o processo de extração de dados de ensaios de Curva IxV, tratamento de imagens, extração de informações via OCR e geração de relatórios padronizados em planilhas Excel.
 
 ## Estrutura dos Arquivos
 
