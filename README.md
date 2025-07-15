@@ -71,7 +71,7 @@ pip install pikepdf openpyxl xlwings opencv-python pytesseract Pillow pandas mat
 
 ## Sobre o Projeto
 
-Este projeto faz parte das atividades do Consórcio Marangatu, em parceria com a Motrice Soluções e a BN Engenharia, visando a automação e padronização dos ensaios de inversores fotovoltaicos, promovendo eficiência, rastreabilidade e qualidade nos resultados.
+Este projeto faz parte das atividades do Consórcio Marangatu, em parceria com a Motrice Soluções e a BN Engenharia, visando a automação e padronização dos ensaios de Curva IxV, promovendo eficiência, rastreabilidade e qualidade nos resultados.
 
 ---
 
